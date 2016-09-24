@@ -1,0 +1,8 @@
+node_modules/
+_build/
+npm-debug.log
+.DS_Store
+*.plain
+*.tmp
+*.swp
+.release

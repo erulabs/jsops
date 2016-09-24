@@ -1,0 +1,39 @@
+{
+  "name": "jsops",
+  "version": "0.0.1",
+  "description": "Operations and Infrastructure for Nodejs applications",
+  "main": "_build/lib/index.js",
+  "scripts": {
+    "test": "echo 'true'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/erulabs/jsops.git"
+  },
+  "keywords": [
+    "Operations",
+    "Infrastructure",
+    "AWS",
+    "DevOps",
+    "Docker",
+    "production"
+  ],
+  "author": "admin@erulabs.com (http://erulabs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erulabs/jsops/issues"
+  },
+  "homepage": "https://github.com/erulabs/jsops#readme",
+  "devDependencies": {
+    "depcheck": "^0.6.4",
+    "eslint": "^3.6.0",
+    "eslint-config-standard": "^6.0.1",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-react": "^6.3.0",
+    "eslint-plugin-standard": "^2.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-rollup": "^2.5.0",
+    "nsp": "^2.6.1"
+  }
+}
